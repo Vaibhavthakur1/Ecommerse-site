@@ -1,0 +1,434 @@
+[
+    {
+        "id": 19,
+        "productImage": "./fashion5.jpg",
+        "title": "Sunglasses",
+        "description": "Protect your eyes with stylish sunglasses.",
+        "price": "$89.99",
+        "rating": "4.7",
+        "category": "Fashion"
+    },
+    {
+        "id": 6,
+        "productImage": "./book6.jpg",
+        "title": "Historical Biography",
+        "description": "Learn about influential historical figures.",
+        "price": "$29.99",
+        "rating": "4.7",
+        "category": "Books"
+    },
+    {
+        "id": 26,
+        "productImage": "./ha5.jpg",
+        "title": "Air Purifier",
+        "description": "Breathe cleaner air with this efficient air purifier.",
+        "price": "$129.99",
+        "rating": "4.7",
+        "category": "Home Appliances"
+    },
+    {
+        "id": 10,
+        "productImage": "./electronic3.jpg",
+        "title": "Wireless Earbuds",
+        "description": "Compact and convenient for music on the go.",
+        "price": "$79.99",
+        "rating": "4.6",
+        "category": "Electronics"
+    },
+    {
+        "id": 14,
+        "productImage": "./electronic7.jpg",
+        "title": "Gaming Laptop",
+        "description": "High-performance laptop for gamers and creators.",
+        "price": "$1,299.99",
+        "rating": "4.9",
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "productImage": "./book2.jpg",
+        "title": "Fantasy Novel",
+        "description": "Dive into a magical world with this best-selling fantasy novel.",
+        "price": "$14.99",
+        "rating": "4.8",
+        "category": "Books"
+    },
+    {
+        "id": 29,
+        "productImage": "./gaming1.jpg",
+        "title": "Gaming Console",
+        "description": "Experience next-gen gaming with cutting-edge hardware.",
+        "price": "$499.99",
+        "rating": "4.9",
+        "category": "Gaming"
+    },
+    {
+        "id": 21,
+        "productImage": "./fashion7.jpg",
+        "title": "Silk Scarf",
+        "description": "Add elegance to any outfit with this silk scarf.",
+        "price": "$49.99",
+        "rating": "4.6",
+        "category": "Fashion"
+    },
+    {
+        "id": 4,
+        "productImage": "./book4.jpg",
+        "title": "Sci-Fi Book Set",
+        "description": "Explore futuristic worlds with these thrilling sci-fi novels.",
+        "price": "$59.99",
+        "rating": "4.8",
+        "category": "Books"
+    },
+    {
+        "id": 8,
+        "productImage": "./electronic1.jpg",
+        "title": "4K Smart TV",
+        "description": "Enjoy stunning visuals with our ultra-high-definition Smart TV.",
+        "price": "$599.99",
+        "rating": "4.8",
+        "category": "Electronics"
+    },
+    {
+        "id": 33,
+        "productImage": "./gaming5.jpg",
+        "title": "4K Gaming Monitor",
+        "description": "Get unparalleled visuals with this ultra-HD gaming monitor.",
+        "price": "$399.99",
+        "rating": "4.9",
+        "category": "Gaming"
+    },
+    {
+        "id": 18,
+        "productImage": "./fashion4.jpg",
+        "title": "Formal Shoes",
+        "description": "Complete your formal attire with these elegant shoes.",
+        "price": "$139.99",
+        "rating": "4.6",
+        "category": "Fashion"
+    },
+    {
+        "id": 12,
+        "productImage": "./electronic5.jpg",
+        "title": "Smart Watch",
+        "description": "Track your health and stay connected.",
+        "price": "$199.99",
+        "rating": "4.7",
+        "category": "Electronics"
+    },
+    {
+        "id": 34,
+        "productImage": "./gaming6.jpg",
+        "title": "Gaming Chair",
+        "description": "Stay comfortable during long gaming sessions with this ergonomic chair.",
+        "price": "$249.99",
+        "rating": "4.7",
+        "category": "Gaming"
+    },
+    {
+        "id": 5,
+        "productImage": "./book5.jpg",
+        "title": "Poetry Collection",
+        "description": "A beautiful collection of timeless poetry.",
+        "price": "$19.99",
+        "rating": "4.6",
+        "category": "Books"
+    },
+    {
+        "id": 22,
+        "productImage": "./ha1.jpg",
+        "title": "Smart Refrigerator",
+        "description": "Keep your food fresh with smart technology.",
+        "price": "$999.99",
+        "rating": "4.7",
+        "category": "Home Appliances"
+    },
+    {
+        "id": 32,
+        "productImage": "./gaming4.jpg",
+        "title": "Gaming Headset",
+        "description": "Immerse yourself in sound with this noise-cancelling gaming headset.",
+        "price": "$149.99",
+        "rating": "4.8",
+        "category": "Gaming"
+    },
+    {
+        "id": 7,
+        "productImage": "./book7.jpg",
+        "title": "Cookbook",
+        "description": "Discover delicious recipes from around the world.",
+        "price": "$24.99",
+        "rating": "4.8",
+        "category": "Books"
+    },
+    {
+        "id": 31,
+        "productImage": "./gaming3.jpg",
+        "title": "Gaming Mouse",
+        "description": "Achieve precision and speed with this high-performance gaming mouse.",
+        "price": "$79.99",
+        "rating": "4.7",
+        "category": "Gaming"
+    },
+    {
+        "id": 35,
+        "productImage": "./gaming7.jpg",
+        "title": "VR Headset",
+        "description": "Step into virtual worlds with this immersive VR headset.",
+        "price": "$599.99",
+        "rating": "4.9",
+        "category": "Gaming"
+    },
+    {
+        "id": 15,
+        "productImage": "./fashion1.jpg",
+        "title": "Leather Jacket",
+        "description": "Stay stylish and warm with this premium leather jacket.",
+        "price": "$199.99",
+        "rating": "4.6",
+        "category": "Fashion"
+    },
+    {
+        "id": 30,
+        "productImage": "./gaming2.jpg",
+        "title": "RGB Gaming Keyboard",
+        "description": "Light up your gaming sessions with this RGB mechanical keyboard.",
+        "price": "$129.99",
+        "rating": "4.8",
+        "category": "Gaming"
+    },
+    {
+        "id": 20,
+        "productImage": "./fashion6.jpg",
+        "title": "Sneakers",
+        "description": "Comfortable and trendy footwear for all occasions.",
+        "price": "$99.99",
+        "rating": "4.8",
+        "category": "Fashion"
+    },
+    {
+        "id": 3,
+        "productImage": "./book3.jpg",
+        "title": "Classic Literature Collection",
+        "description": "Explore timeless stories in this curated collection of classics.",
+        "price": "$39.99",
+        "rating": "4.5",
+        "category": "Books"
+    },
+    {
+        "id": 18,
+        "productImage": "./fashion4.jpg",
+        "title": "Formal Shoes",
+        "description": "Complete your formal attire with these elegant shoes.",
+        "price": "$139.99",
+        "rating": "4.6",
+        "category": "Fashion"
+    },
+    {
+        "id": 12,
+        "productImage": "./electronic5.jpg",
+        "title": "Smart Watch",
+        "description": "Track your health and stay connected.",
+        "price": "$199.99",
+        "rating": "4.7",
+        "category": "Electronics"
+    },
+    {
+        "id": 5,
+        "productImage": "./book5.jpg",
+        "title": "Poetry Collection",
+        "description": "A beautiful collection of timeless poetry.",
+        "price": "$19.99",
+        "rating": "4.6",
+        "category": "Books"
+    },
+    {
+        "id": 21,
+        "productImage": "./fashion7.jpg",
+        "title": "Silk Scarf",
+        "description": "Add elegance to any outfit with this silk scarf.",
+        "price": "$49.99",
+        "rating": "4.6",
+        "category": "Fashion"
+    },
+    {
+        "id": 28,
+        "productImage": "./ha7.jpg",
+        "title": "Microwave Oven",
+        "description": "Cook or reheat your meals quickly and easily.",
+        "price": "$149.99",
+        "rating": "4.7",
+        "category": "Home Appliances"
+    },
+    {
+        "id": 32,
+        "productImage": "./gaming4.jpg",
+        "title": "Gaming Headset",
+        "description": "Immerse yourself in sound with this noise-cancelling gaming headset.",
+        "price": "$149.99",
+        "rating": "4.8",
+        "category": "Gaming"
+    },
+    {
+        "id": 9,
+        "productImage": "./electronic2.jpg",
+        "title": "Noise-Cancelling Headphones",
+        "description": "Immerse yourself in music with premium sound quality.",
+        "price": "$149.99",
+        "rating": "4.6",
+        "category": "Electronics"
+    },
+    {
+        "id": 23,
+        "productImage": "./ha2.jpg",
+        "title": "Electric Grill",
+        "description": "Prepare delicious grilled meals indoors.",
+        "price": "$89.99",
+        "rating": "4.4",
+        "category": "Home Appliances"
+    },
+    {
+        "id": 10,
+        "productImage": "./electronic3.jpg",
+        "title": "Wireless Earbuds",
+        "description": "Compact and convenient for music on the go.",
+        "price": "$79.99",
+        "rating": "4.6",
+        "category": "Electronics"
+    },
+    {
+        "id": 26,
+        "productImage": "./ha5.jpg",
+        "title": "Air Purifier",
+        "description": "Breathe cleaner air with this efficient air purifier.",
+        "price": "$129.99",
+        "rating": "4.7",
+        "category": "Home Appliances"
+    },
+    {
+        "id": 35,
+        "productImage": "./gaming7.jpg",
+        "title": "VR Headset",
+        "description": "Step into virtual worlds with this immersive VR headset.",
+        "price": "$599.99",
+        "rating": "4.9",
+        "category": "Gaming"
+    },
+    {
+        "id": 2,
+        "productImage": "./book2.jpg",
+        "title": "Fantasy Novel",
+        "description": "Dive into a magical world with this best-selling fantasy novel.",
+        "price": "$14.99",
+        "rating": "4.8",
+        "category": "Books"
+    },
+    {
+        "id": 24,
+        "productImage": "./ha3.jpg",
+        "title": "Robot Vacuum Cleaner",
+        "description": "Effortlessly keep your floors clean with smart technology.",
+        "price": "$299.99",
+        "rating": "4.9",
+        "category": "Home Appliances"
+    },
+    {
+        "id": 6,
+        "productImage": "./book6.jpg",
+        "title": "Historical Biography",
+        "description": "Learn about influential historical figures.",
+        "price": "$29.99",
+        "rating": "4.7",
+        "category": "Books"
+    },
+    {
+        "id": 31,
+        "productImage": "./gaming3.jpg",
+        "title": "Gaming Mouse",
+        "description": "Achieve precision and speed with this high-performance gaming mouse.",
+        "price": "$79.99",
+        "rating": "4.7",
+        "category": "Gaming"
+    },
+    {
+        "id": 15,
+        "productImage": "./fashion1.jpg",
+        "title": "Leather Jacket",
+        "description": "Stay stylish and warm with this premium leather jacket.",
+        "price": "$199.99",
+        "rating": "4.6",
+        "category": "Fashion"
+    },
+    {
+        "id": 30,
+        "productImage": "./gaming2.jpg",
+        "title": "RGB Gaming Keyboard",
+        "description": "Light up your gaming sessions with this RGB mechanical keyboard.",
+        "price": "$129.99",
+        "rating": "4.8",
+        "category": "Gaming"
+    },
+    {
+        "id": 22,
+        "productImage": "./ha1.jpg",
+        "title": "Smart Refrigerator",
+        "description": "Keep your food fresh with smart technology.",
+        "price": "$999.99",
+        "rating": "4.7",
+        "category": "Home Appliances"
+    },
+    {
+        "id": 11,
+        "productImage": "./electronic4.jpg",
+        "title": "Bluetooth Speaker",
+        "description": "Take your music anywhere with this portable speaker.",
+        "price": "$49.99",
+        "rating": "4.4",
+        "category": "Electronics"
+    },
+    {
+        "id": 17,
+        "productImage": "./fashion3.jpg",
+        "title": "Winter Coat",
+        "description": "Stay warm and stylish in cold weather.",
+        "price": "$179.99",
+        "rating": "4.7",
+        "category": "Fashion"
+    },
+    {
+        "id": 19,
+        "productImage": "./fashion5.jpg",
+        "title": "Sunglasses",
+        "description": "Protect your eyes with stylish sunglasses.",
+        "price": "$89.99",
+        "rating": "4.7",
+        "category": "Fashion"
+    },
+    {
+        "id": 4,
+        "productImage": "./book4.jpg",
+        "title": "Sci-Fi Book Set",
+        "description": "Explore futuristic worlds with these thrilling sci-fi novels.",
+        "price": "$59.99",
+        "rating": "4.8",
+        "category": "Books"
+    },
+    {
+        "id": 8,
+        "productImage": "./electronic1.jpg",
+        "title": "4K Smart TV",
+        "description": "Enjoy stunning visuals with our ultra-high-definition Smart TV.",
+        "price": "$599.99",
+        "rating": "4.8",
+        "category": "Electronics"
+    },
+    {
+        "id": 35,
+        "productImage": "./gaming7.jpg",
+        "title": "VR Headset",
+        "description": "Step into virtual worlds with this immersive VR headset.",
+        "price": "$599.99",
+        "rating": "4.9",
+        "category": "Gaming"
+    }
+]
